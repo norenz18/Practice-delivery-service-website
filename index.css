@@ -1,0 +1,24 @@
+@import 'style.css';
+@import 'content.css';
+@import 'shipping.css';
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html,body{
+
+    height: 100vh;
+    background-color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+}
+:root{
+
+    --static: #ffffff;
+    --static2: #000000;
+    --primary: #EA7814;
+    --secondary: #D1F0F6;
+    --tertiary: #407F55;
+}
